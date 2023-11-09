@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hi there 👋, I'm Tom Morgenstern
 
-<!--
-**tommorgenstern/tommorgenstern** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🖖 About me
+- Located in Germany
+- Passionate about developing software
+- Building APIs brings me joy
+- Avid Star Trek fan
 
-Here are some ideas to get you started:
+### 👨‍💻 Technologies and tools I love working with
+- JavaScript / TypeScript
+- Node.js
+- Express
+- React
+- Ionic
+- PostgreSQL
+- Python
+- PHP
+- Go
+- Git
+- VSCode
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Open to collaboration!
+
+### 📫 You can reach me at [&#104;&#105;&#064;&#116;&#111;&#109;&#109;&#111;&#114;&#103;&#101;&#110;&#115;&#116;&#101;&#114;&#110;&#046;&#099;&#111;&#109;](mailto:&#104;&#105;&#064;&#116;&#111;&#109;&#109;&#111;&#114;&#103;&#101;&#110;&#115;&#116;&#101;&#114;&#110;&#046;&#099;&#111;&#109;)
