@@ -11,6 +11,7 @@
 - Node.js
 - Express
 - React
+- React Native
 - Ionic
 - PostgreSQL
 - Python
